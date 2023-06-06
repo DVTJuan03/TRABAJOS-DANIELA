@@ -1,0 +1,325 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Libre+Franklin:ital,wght@1,200&family=Montserrat:wght@300&family=Oswald:wght@200&family=Poppins:wght@300&family=Roboto+Mono:wght@100&display=swap');
+body{
+    font-family: 'Instrument Serif', serif;
+font-family: 'Libre Franklin', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Mono', monospace;
+
+}
+.barra ul{
+    display: flex;
+    justify-content: end;
+    background-color: aliceblue;
+}
+
+li{
+    list-style: none;
+}
+
+.bar{
+    width: 140px;
+    padding: 7px;
+    margin: 2%;
+    font-size: 20px;
+}
+.bar4{
+    width: 170px;
+    background-color: rgb(106, 180, 245);
+    padding: 7px;
+    border-radius: 10px;
+    margin: 2%;
+    font-size: 20px;
+}
+.segundaria{
+    display: flex;
+   
+    
+}
+.img1 img{
+    margin: 5px;
+    width: 865px;
+
+}
+.pres{
+   
+}
+.s1{
+    height: 100px;
+    width: 365px;
+}
+.nam{
+    font-size: 60px;
+    color:  rgb(106, 180, 245);
+}
+.s2{
+    font-size: 28px;
+}
+.s3{
+    font-size: 23px;
+    border-radius: 15px;
+    background-color: aliceblue;
+    width: 170px;
+    height: 30px;
+    padding: 9px;
+    margin: 40px
+
+}
+.terciario{
+    background-color:  aliceblue;
+    
+}
+.t1{
+    justify-content: center;
+    display: flex;
+    font-size: 50px; 
+    height: 20px;  
+    padding: 15px;
+}
+.t2{
+    font-size: 18px;
+    justify-content: center;
+    display: flex;
+}
+.simbolos1{
+    display: flex ;
+    justify-content:center;
+    
+}
+.simbolos2{
+    display: flex ;
+    justify-content:center;
+    
+}
+.simbol2 img{
+   width: 150px;
+   background-color: rgb(255, 255, 255);
+   border-radius: 10px;
+   padding: 15px;
+   margin: 10px;
+   
+}
+.simbol3 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    height: 150px;
+    margin: 10px;
+ 
+}
+.simbol4 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    height: 150px;
+    margin: 10px;
+   
+}
+.simbol5 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    height: 150px;
+    margin: 10px;
+   
+}
+.simbol6 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    height: 150px;
+    margin: 10px;
+   
+}
+.simbol7 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    height: 150px;
+    margin: 10px;
+   
+}
+.cuaternario{
+    background-color: rgb(198, 225, 249);
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+.comi{
+    font-size: 50px;
+    justify-content: center;
+    display: flex;
+}
+.nam1{
+    display: flex;
+    justify-content: center;
+}
+.quintuple{
+    background-color: aliceblue;
+   
+    justify-content: center;
+    font-size: 20px;
+}
+.q1{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+.q2{
+    display: flex;
+    justify-content: center;
+}
+.simbolos3{
+    display: flex ;
+
+}
+.simbol8 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    margin-left: 390px;
+}
+.p1{
+    margin-left: 420px;
+}
+.simbol9 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+}
+.p2{
+    width: 150px;
+    margin-left: 35px;
+}
+.simbol20 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+}
+.p3{
+    margin-left: 60px;
+}
+.simbolos4{
+    display: flex ;
+    
+}
+.simbol21 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    margin-left: 367px;
+}
+.p4{
+    width: 170px;
+    margin-left: 370px;
+}
+.simbol22 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 40px;
+    margin: 10px;
+
+}
+.p5{
+    width: 200px;
+    margin-left: 25px;
+}
+.simbol23 img{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+}
+.p6{
+    margin-left: 50px;
+}
+.sextuple{
+    justify-content: center;
+    padding: 50px;
+    background-color: rgb(198, 225, 249);
+
+}
+.s1{
+    font-size: 60px;
+    margin: 10px;
+    margin-left: 10px;
+}
+.s2{
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 10px;
+}
+.informacion1 ul{
+    display: flex;
+    justify-content:flex-start;
+    margin-left: 260px;
+}
+.inf2{
+    display: flex;
+    margin-left: 95px;
+}
+
+.inf6{
+    background-color: rgb(236, 236, 236);
+    margin: 5px;
+    padding: 7px;
+    width: 440px;
+}
+.inf5{
+    background-color: rgb(236, 236, 236);
+    margin: 5px;
+    padding: 7px;
+    width: 130px;
+   
+}
+.inf3{
+    background-color: rgb(236, 236, 236);
+    margin: 5px;
+    padding: 7px;
+    width: 600px;
+    margin-left: 300px;
+}
+.inf4{
+    background-color: rgb(236, 236, 236);
+    margin: 5px;
+    padding: 9px;
+    width: 600px;
+    height: 200px;
+    margin-left: 300px;
+}
+.informacion ul{
+    display: flex;
+    justify-content:flex-start;
+    margin-left: 260px;
+}
+.s11{
+    font-size: 60px;
+    margin: 10px;
+    margin-left: 445px;
+}
+.s12{
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 260px;
+}
+
+
+
+
+
+

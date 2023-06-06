@@ -1,0 +1,37 @@
+.color1{
+    background-color:blue;
+    width: 50px;
+    padding: 50px;
+    border-radius: 10px;
+}
+.color2{
+    background-color:red;
+    width: 50px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.color3{
+    background-color:blueviolet;
+    width: 50px;
+    padding: 50px;
+    border-radius: 10px;
+}
+.color4{
+    background-color:orange;
+    width: 50px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.color5{
+    background-color:green;
+    width: 50px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.colores{
+    display: flex;
+    justify-content: space-between 50px;
+}

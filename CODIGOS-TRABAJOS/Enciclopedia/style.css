@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.principal{
+    display: flex;
+    margin: 50px
+}
+.imagen1{
+    width: 200px;
+    height: 200px;
+    margin: 0%;
+    border-radius: 3%
+}
+.titulo{
+    background-color: rgb(255, 0, 0);
+    border-radius: 5px;
+}
+.titulo4{
+    background-color: rgb(238, 255, 0);
+    border-radius: 5px;
+}
+.titulo7{
+    background-color: rgb(0, 17, 255);
+    border-radius: 5px;
+}
+.parrafo1{
+    font-family: 'Playfair Display', serif;
+}
+.primaria{
+    border-style: double;
+    border-radius: 5px;
+    margin: 5px;
+}
+.segundaria{
+    border-style: double;
+    border-radius: 5px;
+    margin: 5px;
+}
+.terciaria{
+    border-style: double;
+    border-radius: 5px;
+    margin: 5px;
+}
